@@ -16,3 +16,35 @@ Diseñado para desarrolladores, testers y equipos que buscan una experiencia de 
 
 ```bash
 npm install -g clark-qa
+```
+
+## 🌎 Comunidad
+
+Clark QA es un proyecto **open source**.
+
+🤝 **La comunidad es bienvenida a colaborar.**
+
+Ideas, feedback, issues, mejoras o pull requests son bienvenidas. Si te gusta el proyecto, considera darle una ⭐️ y compartirlo.
+
+### Cómo contribuir
+
+1. Haz un fork del repositorio.
+2. Crea una rama nueva: `git checkout -b feature/mi-mejora`.
+3. Haz tus cambios.
+4. Envía un PR describiendo tu aporte.
+
+## 🔮 Roadmap
+
+- Soporte inicial de flujos declarativos
+- Hooks en TypeScript
+- Ejecución en dispositivos reales
+- Capa flotante visual para grabar pasos
+- Verificación visual automática
+- Modo exploratorio
+- Interfaz no-code web
+- Plugin para métricas y reportes visuales
+
+## 📜 Licencia
+
+MIT © flushed058
+
